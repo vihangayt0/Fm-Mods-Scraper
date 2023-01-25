@@ -1,0 +1,35 @@
+{
+    "name": "@vihangayt0/fouadwa-scraper",
+    "version": "1.0.0",
+    "description": "Get latest Fouad Whatsapp APKs link.",
+    "main": "wamod.js",
+    "scripts": {
+        "test": "node wamod.js",
+        "start": "node wamod.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vihangayt0/FouadWA-Scraper.git"
+    },
+    "keywords": [
+        "whatsapp",
+        "mods",
+        "fouad",
+        "whatsapp"
+    ],
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.10",
+        "express": "^4.18.2",
+        "axios": "^1.2.2"
+    },
+    "author": "vihangayt0 <vihangamd1@gmail.com> (https://github.com/vihangayt0)",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    },
+    "npm_publisher": "BlackAmda",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vihangayt0/FouadWA-Scraper/issues"
+    },
+    "homepage": "https://github.com/vihangayt0/FouadWA-Scraper#readme"
+}
