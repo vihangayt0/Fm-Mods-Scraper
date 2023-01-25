@@ -1,5 +1,5 @@
 {
-    "name": "@vihangayt0/fouadwa-scraper",
+    "name": "@vihangayt0/Fm-Mods-Scraper",
     "version": "1.0.0",
     "description": "Get latest Fouad Whatsapp APKs link.",
     "main": "wamod.js",
@@ -29,7 +29,7 @@
     "npm_publisher": "BlackAmda",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/vihangayt0/FouadWA-Scraper/issues"
+        "url": "https://github.com/vihangayt0/Fm-Mods-Scraper/issues"
     },
-    "homepage": "https://github.com/vihangayt0/FouadWA-Scraper#readme"
+    "homepage": "https://github.com/vihangayt0/Fm-Mods-Scraper#readme"
 }
